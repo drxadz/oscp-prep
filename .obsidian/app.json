@@ -1,5 +1,7 @@
 {
-  "attachmentFolderPath": "oscp-prep/static/img",
+  "attachmentFolderPath": "static/img",
   "promptDelete": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true
 }
