@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 OSCP Notes/01_nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 01_nmap"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01 OSCP Notes/01_nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 01_nmap"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "01 OSCP Notes/01_nmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 01_nmap"
             }
           }
         ]
@@ -170,9 +170,13 @@
   },
   "active": "27db4e9e545f772e",
   "lastOpenFiles": [
+    "01 OSCP Notes/01_nmap.md",
+    "static/img/Pasted image 20250808172938.png",
+    "static/img/Pasted image 20250808172811.png",
+    "README.md",
+    "Untitled",
     "static/img/Pasted image 20250808172603.png",
     "Pasted image 20250808172320.png",
-    "README.md",
     "static/img",
     "static",
     "02-HTB Labs",

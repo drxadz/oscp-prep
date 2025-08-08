@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "static/img",
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "absolute"
 }
